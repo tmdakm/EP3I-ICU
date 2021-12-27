@@ -47,5 +47,7 @@ EP3I标准中的3I由Lei_Fang_提出，jared2021概括，后由Lanyangyang_CN补
 
 
 Sslk_yanmo - EP3I.ICU域名拥有者
+
 AzogMine - 网站编写者/ICU创造者
+
 以及ep3i.top鸣谢名单中所有人员
