@@ -1,7 +1,7 @@
 ## EP3I-ICU
 公告：页面完成度80%，若有问题请到Github反馈，谢谢！
 
-## EP3I-ICU标准的定义
+## 什么是EP3I标准？
 EP3I-ICU标准 即由E、P和三个I加上ICU组成
 
 
@@ -14,6 +14,9 @@ ICU（心理年龄 - 较高要求）
 注：理应为PA(心理年龄)，但是我们为了迎合域名，将其标为ICU
 
 友链：[Minecraft官网](www.minecraft.net) [作者博客](www.ictwebsite.xyz)
+
+## ICU从何而来？
+ICU是AzogMine提出的，灵感来源于某个叫\*\*的买了EP3I.ICU的域名，被迫提出
 
 ## 如何判断我是否达到EP3I-ICU标准
 “ 据我们了解到，100%的XXS均未达标EP3I-ICU标准，XXS的判断技巧：
