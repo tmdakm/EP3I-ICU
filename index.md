@@ -1,7 +1,7 @@
-EP3I-ICU
+## EP3I-ICU
 公告：页面完成度80%，若有问题请到Github反馈，谢谢！
 
-EP3I-ICU标准的定义
+## EP3I-ICU标准的定义
 EP3I-ICU标准 即由E、P和三个I加上ICU组成
 
 EQ（情商 - 较高要求）
@@ -12,7 +12,7 @@ IP（豆服在互联网上的连接地址）
 ICU（心理年龄）
 注：理应为PA(心理年年龄)，但是我们为了迎合域名，将其标为ICU
 
-友链：www.minecraft.net(minecraft正版官网) www.ictwebsite.xyz(网站作者博客)
+友链：[Minecraft官网](www.minecraft.net) [作者博客](www.ictwebsite.xyz)
 
 如何判断我是否达到EP3I-ICU标准
 据我们了解到，100%的XXS均未达标EP3I-ICU标准，XXS的判断技巧：
