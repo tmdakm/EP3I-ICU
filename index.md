@@ -5,12 +5,17 @@
 EP3I-ICU标准 即由E、P和三个I加上ICU组成
 
 
-#### EQ（情商 - 较高要求）
-#### PC（个人计算机）
-#### IQ（智商 - 较高要求）
-#### ID（Minecraft JE正版）
-#### IP（豆服在互联网上的连接地址）
-#### ICU（心理年龄 - 较高要求）
+EQ（情商 - 较高要求）
+
+PC（个人计算机）
+
+IQ（智商 - 14+）
+
+ID（Minecraft JE正版）
+
+IP（豆服在互联网上的连接地址）
+
+ICU（心理年龄 - 较高要求）
 注：理应为PA(心理年龄)，但是我们为了迎合域名，将其标为ICU
 
 友链：[Minecraft官网](www.minecraft.net) [作者博客](www.ictwebsite.xyz)
